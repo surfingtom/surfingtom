@@ -4,6 +4,8 @@ I'm a surfing, dog loving cook and working as development manager in telco, base
 
 I am currently exploring automating the mundane to make more time for the fun.
 
+In past have been software engineer, business owner and crazy things like tree climber or cheese packer!
+
 ---
 
 ### 🛠️ What I'm Building
@@ -13,12 +15,13 @@ I am currently exploring automating the mundane to make more time for the fun.
 ---
 
 ### 🍕 Beyond the Desk
-*   **Surfing**: Catching waves and tracking conditions.
-*   **Cooking & Baking**: Fine-tuning recipe ratios (including sourdough bake logs) and syncing my kitchen databases.
-*   **Dogs**: Spending quality time outdoors.
+*   **Surfing, cycling, running, swimming, hiking**: Missing living near decent surf.
+*   **Cooking & Baking**: Learning to understand what makes difference between meh and yum!
+*   **Dogs**: Recently lost by border collie, Musti.
+*   **Other**: Like making stuff, learning Finnish disappointingly slowly, exploring new places
 
 ---
 
 ### 🛠️ Toolbox & Interests
-*   **Languages & scripting**: Python, JavaScript, Bash
+*   **Languages & scripting**: Python, JavaScript, Bash, Java, C, Lisp, Pascal, Ada
 *   **Workflows**: Git & GitHub, Markdown pipelines, automation scripts
